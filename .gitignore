@@ -1,0 +1,12 @@
+#Locally included dependencies for GAE
+flask/
+werkzeug/
+wsgiref/
+sqlalchemy/
+itsdangerous.py
+
+#More general
+__pycache__/
+*.py[cod]
+virtualenv/
+.idea/
